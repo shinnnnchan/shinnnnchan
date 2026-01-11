@@ -6,7 +6,7 @@ I enjoy building **full-stack applications**, exploring new frameworks, and solv
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **Next.js** and exploring **Machine Learning**  
+- 🌱 Currently exploring **Machine Learning**  
 - 👩‍💻 Active on **Kaggle** & experimenting with models in **Google Colab**  
 - 🧠 Practicing **DSA in C++** to sharpen problem-solving  
 - 👯 Looking to collaborate on **open-source projects**  
