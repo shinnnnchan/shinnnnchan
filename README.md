@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K!
+# 👋 Hi, I'm JK!
 
 💻 **Web Developer | ML Explorer | Open Source Enthusiast**  
 
